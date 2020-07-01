@@ -10,7 +10,7 @@ Consiste en 3 escenarios distintos :
 
 <img src="https://github.com/jpupper/TPinfo/blob/master/1.png" >
 
-##Escenario 1 : Particulas 
+<h2>Escenario 1 : Particulas </h2>
 
 Aqui se plantea un sistema de particulas en donde la interacción con las mismas particulas modifica el sistema en general.
 <img src="https://github.com/jpupper/TPinfo/blob/master/2.png" >
